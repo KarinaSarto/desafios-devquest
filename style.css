@@ -1,0 +1,16 @@
+
+
+.lista, .total {
+    font-size: 20px;
+}
+
+
+
+.lista .cafe .valor-cafe, .valor-cha, .valor-suco {
+    font-weight: bold;
+
+}
+
+.total .valor-total {
+    font-weight: bold;
+}

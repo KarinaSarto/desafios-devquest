@@ -1,0 +1,16 @@
+
+.tb-moda .cabecalho-moda, .cabecalho-casa {
+    background-color: #BB86FC;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+
+.tb-moda .camiseta, .tenis, .sofa, .tv {
+    background-color: #424250;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+}
+
+
